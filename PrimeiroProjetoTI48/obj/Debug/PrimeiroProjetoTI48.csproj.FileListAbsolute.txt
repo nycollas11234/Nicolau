@@ -1,0 +1,14 @@
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\bin\Debug\PrimeiroProjetoTI48.exe.config
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\bin\Debug\PrimeiroProjetoTI48.exe
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\bin\Debug\PrimeiroProjetoTI48.pdb
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.csproj.AssemblyReference.cache
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.Form1.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.frmCliente.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.ItensVendas.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.produtos.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.Properties.Resources.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.Vendas.resources
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.csproj.GenerateResource.cache
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.csproj.CoreCompileInputs.cache
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.exe
+C:\Users\nycollas.bdferreira\source\Nicolau\PrimeiroProjetoTI48\obj\Debug\PrimeiroProjetoTI48.pdb

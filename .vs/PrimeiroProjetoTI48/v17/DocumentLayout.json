@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nycollas.bdferreira\\source\\Nicolau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2C7C7C-DB12-44F4-A120-A4489EBC8FC8}|PrimeiroProjetoTI48\\PrimeiroProjetoTI48.csproj|c:\\users\\nycollas.bdferreira\\source\\nicolau\\primeiroprojetoti48\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2C7C7C-DB12-44F4-A120-A4489EBC8FC8}|PrimeiroProjetoTI48\\PrimeiroProjetoTI48.csproj|solutionrelative:primeiroprojetoti48\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nycollas.bdferreira\\source\\Nicolau\\PrimeiroProjetoTI48\\Vendas.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoTI48\\Vendas.cs",
+              "ToolTip": "C:\\Users\\nycollas.bdferreira\\source\\Nicolau\\PrimeiroProjetoTI48\\Vendas.cs [Design]",
+              "RelativeToolTip": "PrimeiroProjetoTI48\\Vendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:40:02.731Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
