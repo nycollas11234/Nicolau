@@ -46,6 +46,9 @@
             this.txtVendaId = new System.Windows.Forms.TextBox();
             this.txtQuantidade = new System.Windows.Forms.TextBox();
             this.txtTotal = new System.Windows.Forms.TextBox();
+            this.txtCliente = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtTotalVenda = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgItensVenda)).BeginInit();
             this.SuspendLayout();
             // 
@@ -187,7 +190,7 @@
             // 
             // txtVendaId
             // 
-            this.txtVendaId.Location = new System.Drawing.Point(131, 44);
+            this.txtVendaId.Location = new System.Drawing.Point(99, 47);
             this.txtVendaId.Name = "txtVendaId";
             this.txtVendaId.Size = new System.Drawing.Size(164, 20);
             this.txtVendaId.TabIndex = 16;
@@ -195,7 +198,7 @@
             // 
             // txtQuantidade
             // 
-            this.txtQuantidade.Location = new System.Drawing.Point(131, 117);
+            this.txtQuantidade.Location = new System.Drawing.Point(103, 121);
             this.txtQuantidade.Name = "txtQuantidade";
             this.txtQuantidade.Size = new System.Drawing.Size(164, 20);
             this.txtQuantidade.TabIndex = 17;
@@ -203,17 +206,41 @@
             // 
             // txtTotal
             // 
-            this.txtTotal.Location = new System.Drawing.Point(112, 150);
+            this.txtTotal.Location = new System.Drawing.Point(103, 150);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.Size = new System.Drawing.Size(164, 20);
             this.txtTotal.TabIndex = 18;
+            // 
+            // txtCliente
+            // 
+            this.txtCliente.Location = new System.Drawing.Point(99, 71);
+            this.txtCliente.Name = "txtCliente";
+            this.txtCliente.Size = new System.Drawing.Size(164, 20);
+            this.txtCliente.TabIndex = 19;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(318, 215);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(164, 20);
+            this.textBox1.TabIndex = 20;
+            // 
+            // txtTotalVenda
+            // 
+            this.txtTotalVenda.Location = new System.Drawing.Point(103, 178);
+            this.txtTotalVenda.Name = "txtTotalVenda";
+            this.txtTotalVenda.Size = new System.Drawing.Size(164, 20);
+            this.txtTotalVenda.TabIndex = 21;
             // 
             // ItensVendas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtTotalVenda);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtCliente);
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.txtQuantidade);
             this.Controls.Add(this.txtVendaId);
@@ -261,5 +288,8 @@
         private System.Windows.Forms.TextBox txtVendaId;
         private System.Windows.Forms.TextBox txtQuantidade;
         private System.Windows.Forms.TextBox txtTotal;
+        private System.Windows.Forms.TextBox txtCliente;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtTotalVenda;
     }
 }
